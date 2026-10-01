@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Claude Code 本地配置
+.claude/settings.local.json
+
+# 应用数据
+tasks.json
